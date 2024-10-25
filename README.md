@@ -6,7 +6,7 @@ Le système carburant est composé de trois réservoirs (Tank1, Tank2, Tank3), d
 
 **Voici le diagramme du systeme de carburant :**
 
-![Diagramme système carburant](schema.png)
+![Diagramme système carburant](images/schema.png)
 
 ## Fonctionnalités principales
 ### Gestion du Système Carburant
@@ -39,6 +39,10 @@ L'application comprend deux interfaces principales :
 
 1. **Tableau de bord du pilote** : Cette interface permet à l'utilisateur de contrôler les vannes et pompes pour gérer le flux de carburant.
 2. **État du système** : Une interface secondaire permet de visualiser l'état des réservoirs (plein/vide), l'état des pompes (en marche/arrêt/panne), et des vannes (ouvertes/fermées). Elle permet également d'injecter des pannes dans le système.
+
+**Voici un aperçu de l'interface utilisateur :**
+
+![Interface](images/interface.png)
 
 ## Exécution du projet
 
